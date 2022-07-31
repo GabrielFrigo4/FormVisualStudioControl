@@ -7,6 +7,8 @@
     <ImplicitUsings>enable</ImplicitUsings>
     <GeneratePackageOnBuild>True</GeneratePackageOnBuild>
     <PackageIcon>VS2022.jpg</PackageIcon>
+    <PackageProjectUrl>https://github.com/GabrielFrigo4/FormVisualStudioControl</PackageProjectUrl>
+    <Description>Mimics visual studio 2022 controls</Description>
   </PropertyGroup>
 
   <ItemGroup>
