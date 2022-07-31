@@ -1,7 +1,7 @@
 ﻿namespace FormVisualStudioControl;
-public class Utilits
+static public class Utilits
 {
-    public Tuple<bool, bool> SetTheme_VisualStudio(Control myControl, Color main, Color other, bool isLight, bool isDark)
+    static public Tuple<bool, bool> SetTheme_VisualStudio(Control myControl, Color main, Color other, bool isLight, bool isDark)
     {
         if (myControl is VisualStudioTabControl control)
         {
